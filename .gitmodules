@@ -1,0 +1,6 @@
+[submodule "potential-vorticity"]
+	path = potential-vorticity
+	url = git@github.com:aymeric-spiga/potential-vorticity.git
+[submodule "dynanalysis"]
+	path = dynanalysis
+	url = git@github.com:aymeric-spiga/dynanalysis.git
